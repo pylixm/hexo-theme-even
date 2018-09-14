@@ -4,6 +4,7 @@ menu:
   tags: Tags
   categories: Categories
   about: About
+  search: 站内搜索
 
 footer:
   powered: "Powered by %s"

@@ -18,16 +18,17 @@ rss: default
 # ===========================================
 menu:
   Home: /
-  # Archives: /archives/
-  # Tags: /tags
-  # Categories: /categories
-  # About: /about
+  Archives: /archives/
+  Tags: /tags
+  Categories: /categories
+  About: /about
+  # Search: /search
 
 # ===========================================
 # Theme Settings
 # ===========================================
 # color: default | mint green | cobalt blue | hot pink | dark violet
-color: default
+color: mint green
 
 # default page mode: default | archives
 mode: default
@@ -54,14 +55,14 @@ reward:
 # Social links Settings
 # ===========================================
 social:
-  email: your@email.com
+  email: pyli.xm@gmail.com
   stack-overflow:
   twitter:
   facebook:
   linkedin:
   google:
-  github: https://github.com/ahonn
-  weibo:
+  github: https://github.com/pylixm
+  weibo: https://weibo.com/u/2258086637
   zhihu:
   douban:
   pocket:
@@ -74,21 +75,23 @@ social:
 
 # LeanCloud
 leancloud:
-  app_id:
-  app_key:
+  app_id: OBJcj4PU8JI0zDfu0HJSrG6W-gzGzoHsz #<app_id>
+  app_key: tBtFzC72xIlgo2UFbA33nqmU #<app_key>
 
 # Baidu Analytics
-baidu_analytics:
+baidu_analytics: c05fab1b3c819c78c0ecc09b9bb0b79a
 # Baidu Verification
 baidu_verification:
 
 # Google Analytics
-google_analytics:
+google_analytics: UA-76793541-1
 # Google Verification
 google_verification:
 
+
+cnzz_siteid: 1259027433
 # Disqus
-disqus_shortname:
+disqus_shortname: pylixm
 
 #Changyan
 changyan:
